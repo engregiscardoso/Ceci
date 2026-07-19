@@ -13,7 +13,7 @@ from huggingface_hub import HfApi
 
 REPO_ID = "regiscardoso/Ceci"  # ← troque aqui
 ARQUIVO_CSV = "presentes.csv"
-HF_TOKEN = os.environ.get("HF_TOKEN")
+HF_TOKEN = st.secrets["HF_TOKEN"]
 
 st.set_page_config(
     page_title="Cecília in Fest",
