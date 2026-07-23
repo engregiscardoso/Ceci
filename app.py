@@ -162,7 +162,7 @@ with col_title:
     st.write(
         "Dizem que o enxoval de um bebê é um quebra-cabeça, né? "
         "Para nos ajudar a completar todas as peças, "
-        "fizemos uma listinha com os itens."
+        "fizemos uma listinha com os itens. É APENAS UMA LISTA, você vai comprar o presente escolhido em um loja de sua preferencia!"
     )
     st.write("-> Selecione a quantidade desejada.")
     st.write("-> Clique em 💝 Salvar.")
